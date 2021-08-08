@@ -3,7 +3,7 @@
 **Web Developer | Electrical-Electronics Engineer**
 
 - 🔭 I’m currently working on ReactJS, Vue.js and Testing
-- 📫 How to reach me: sing [mailto](mailto:gokberkotlu@gmail.com)
+- 📫 How to reach me: sing [gokberkotlu@gmail.com](mailto:gokberkotlu@gmail.com)
 
 **Languages and Tools**
 
