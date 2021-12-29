@@ -1,6 +1,6 @@
 ### Hi I'm Gökberk Otlu 👋
 
-**Web Developer | Electrical-Electronics Engineer**
+**Full-Stack Web Developer**
 
 - 🔭 I’m currently working on ReactJs, VueJs and NodeJs
 - 📫 How to reach me: [gokberkotlu@gmail.com](mailto:gokberkotlu@gmail.com)
