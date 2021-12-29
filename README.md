@@ -2,7 +2,7 @@
 
 **Web Developer | Electrical-Electronics Engineer**
 
-- 🔭 I’m currently working on ReactJS, VueJs and NodeJs
+- 🔭 I’m currently working on ReactJs, VueJs and NodeJs
 - 📫 How to reach me: [gokberkotlu@gmail.com](mailto:gokberkotlu@gmail.com)
 
 **Languages and Tools**
