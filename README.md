@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer**
 
-- 🔭 Working with Java, Spring, Nodejs, React
+- 🔭 Working with Java, Spring Boot, Golang, Nodejs, React
 - 📫 How to reach me: [gokberkotlu@gmail.com](mailto:gokberkotlu@gmail.com)
 
 **Languages and Tools**
